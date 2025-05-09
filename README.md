@@ -16,3 +16,5 @@ Bu proje, [https://automationexercise.com](https://automationexercise.com) sites
 - **Pytest**
 
 
+## Test Verileri
+Bu projede kullanılan tüm test verileri (ad, e-posta, adres, telefon numarası vb.) tamamen **sahte** verilerdir. Gerçek kişilerle veya gerçek bilgilerle hiçbir ilişkisi yoktur. Bu veriler yalnızca test amacıyla kullanılmıştır.
