@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Sophia Miller",
+        "email": "sophia.miller789@example.com",
+        "password": "PassSecure!2025",
+        "first_name": "Sophia",
+        "last_name": "Miller",
+        "address": "321 Birch Road",
+        "country": "Canada",
+        "state": "Ontario",
+        "city": "Toronto",
+        "zipcode": "M5A 1A1",
+        "mobile_number": "+1 416-555-2048"
+      }
+]
